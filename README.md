@@ -2,7 +2,7 @@
 
 Meu nome nome é Eloá Melo
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me densevolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organiação e compartilhamento dos meus projetos desenvolvidos
 
